@@ -1,0 +1,10 @@
+{
+	int a;
+	int 8b;
+	see(a) ;
+	see(b) ;
+    while(b){
+        a = b;
+        b = a % b; }
+ return a;
+}
